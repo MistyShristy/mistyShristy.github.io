@@ -454,7 +454,7 @@ li a:hover {
     min-width: 35vw;
     min-height: 60vh;
     max-height: 80vh;
-    background-color: #2d3037;
+    background-color: white;
     padding: 20px;
     border-radius: 15px;
     margin: 20px ;
@@ -462,7 +462,7 @@ li a:hover {
   }
   
   .project-card-1 {
-    background: linear-gradient(180deg, #16191e, #252628);
+    background: linear-gradient(180deg, #347bf5, #5d78ad);
   }
   
   .project-card-2 {
